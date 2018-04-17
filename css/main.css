@@ -1,0 +1,9837 @@
+@font-face{
+	font-family: 'Avenir Next';
+	src: url('../fonts/Avenir Next.ttc') format('truetype');	
+}
+
+html {
+	font-size: 10px;
+	overflow-x: hidden;
+
+}
+
+.margintop-30{
+	margin-top: -30px;
+}
+.paddingr30{
+padding-right: 30px;
+}
+.marginright-30 {
+    position: relative;
+    right: -90px;
+}
+.turn {
+    display: none;
+    position: relative;
+    min-height: 700px;
+    max-height: 1400px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Avenir Next';
+    text-align: center;
+    font-weight: 500;
+    background-color: black;
+    color: #8170FF;
+    padding-top: 40%;
+    transition-property: all;
+}
+
+
+a:hover {
+	text-decoration: none;
+}
+
+a {
+	color: black;
+	font-weight: 450;
+	font-family: 'Avenir Next';
+}
+
+.wrap {
+	background-image: url(../img/background.png);
+}
+
+.first {
+	height: 1250px;
+	background-image: url(../img/background.png);
+}
+
+.logo {
+	position: relative;
+	top: 30px;
+}
+
+.ref {
+	position: relative;
+	background-color: white;
+	width: 230px;
+	height: 281px;
+	padding-left: 15px;
+    padding-bottom: 5px; 
+    overflow: hidden;
+    margin: 0 0 0 auto;
+	
+}
+
+.number {
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1rem;
+	position: relative;
+}
+
+.ref > p {
+    font-size: 7px;
+    font-family: "Times New Roman", Times, serif;
+}
+.second {
+	position: relative;
+	top: -30px;
+}
+.students {
+	font-family: 'Avenir Next';
+	font-size: 8.5rem;
+	font-weight: 600;
+	color: white;
+}
+
+.third {
+	position: relative;
+	top: -40px;
+}
+
+.fourth {
+	position: relative;
+}
+
+.knu {
+	background-image: url(../img/lines.png);
+	font-family: 'Avenir Next';
+	font-weight: 400;
+	color: white;
+	padding: 5px;
+	font-size: 2.3rem;
+	background-size: contain;
+}
+
+.adv {
+	font-family: 'Avenir Next';
+	font-size: 3.8rem;
+	color: white;
+	font-weight: 500;
+}
+
+
+.withplayer {
+	background-color: #8170FF;
+	height: 50vh;
+}
+
+.corner {
+  	width: 0; 
+	height: 0; 
+	border-bottom: 550px solid #8170FF;
+	border-top: 300px solid transparent;
+	border-right: 1200px solid transparent;
+	position: relative;
+	top: -190px;
+	left: -150px;
+}
+
+.violet {
+	background-color: #8170FF;
+	position: relative;
+}
+
+.project {
+	font-family: 'Avenir Next';
+	font-weight: 400;
+	color: white;
+	padding-right: 60px;
+	font-size: 3rem;
+	text-align: right;
+	position: relative;
+	top: 200px;
+}
+
+.fifth {
+	position: relative;
+	height: 570px;
+	overflow: hidden;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.whitestripe {
+	width: 150px;
+	height: 15px;
+	margin-bottom: 40px;
+	background-color: white;
+	position: relative;
+
+}
+
+.sixth {
+	position: relative;
+
+}
+
+.vimeo {
+	background-color: #8170FF;
+	height: 300px;
+}
+
+.whatwewait {
+	font-family: 'Avenir Next';
+	font-weight: 400;
+	position: relative;
+	top: -55%;
+	left: -5%;
+	text-align: center;
+	color: white;
+	font-size: 1.8rem;
+}
+
+.manyarr {
+	height: 300px;
+	background-color: #F5F6F6;
+	position: relative;
+	padding: 20px 120px 10px 120px;
+}
+
+.manyarr > h2 {
+	text-align: center;
+	font-size: 4.7rem;
+	font-family: 'Avenir Next';
+	position: relative;
+	color: black;
+
+}
+
+.personal {
+	margin-top: 40px;
+	font-family: 'Avenir Next';
+	font-weight: 400;
+}
+
+#middletitle {
+	font-size: 4rem;
+	font-family: 'Avenir Next';
+	font-weight: 600;
+	color: black;
+}
+
+#lefttitle, #righttitle {
+	font-size: 2rem;
+	font-family: 'Avenir Next';
+	font-weight: 500;
+	margin: auto;
+
+}
+
+#titles {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	
+}
+
+
+
+#arrowleft {
+	height: 60%;
+	margin: auto;
+}
+
+#arrowright {
+	height: 60%;
+	margin: auto;
+}
+
+.left {
+	padding-right: 0px;
+}
+
+.stages {
+	background-color: #FF7F80;
+	padding-left: 0px;
+	height: 600px;
+
+}
+
+.contact {
+	font-size: 2.8rem;
+	font-family: 'Avenir Next';
+	line-height: 1.3;
+    font-weight: 600;
+	padding: 60px 45px 60px 10px;
+	text-align: right;
+	color: black;
+
+}
+
+.lets {
+	text-align: center;
+}
+
+.eighth {
+	text-align: center;
+	margin-bottom: 50px;
+	padding-top: 50px;
+
+}
+
+
+.bcg {
+	background-image: url(../img/bcg22.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 0px -20px;
+	background-color: #F5F6F6;
+}
+
+.ninth {
+text-align: center;
+height: 520px;
+
+}
+
+h2 {
+	font-family: 'Avenir Next';
+	font-weight: 600;
+	
+}
+
+
+.seventh {
+	background-color: #8170FF;
+	position: relative;
+}
+
+.lets > h2 {
+	color: white;
+	margin-top: 70px;
+	font-size: 5rem;
+
+}
+
+
+
+.lets > p {
+	font-size: 3rem;
+}
+
+.eighth > p {
+	font-size: 2.5rem;
+}
+.eighth > h2 {
+	font-size: 4.5rem;
+}
+
+#ani {
+	width: 20%;
+}
+
+
+p {
+	font-family: 'Avenir Next';
+	font-weight: 400;
+}
+
+.ninth p {
+	font-size: 2rem;
+}
+
+.ninth h2 {
+	font-size: 4rem;
+}
+
+
+.replacement {
+	border: 15px dashed #FF7F80;
+	position: relative;
+	top: -200px;
+	left: 70px;
+	width: 578px;
+	height: 340px;
+	font-size: 4rem;
+	font-weight: bold;
+	font-family: 'AvenirNext-Bold';
+	color: #FF7F80;
+	background-color: white;
+	text-align: center;
+	padding-top: 120px;
+}
+
+@media (orientation: portrait) { 
+	.turn {
+		display: block;
+
+	}
+	container-fluid{
+		display: none;
+	}
+	.first{
+		display: none;
+	}
+	.row{
+		display: none;
+	}
+	.sixth{
+		display: none;
+	}
+	.bcg{
+		display: none;
+	}
+
+ }
+
+@media screen and (min-width: 500px) {
+.whitestripe {
+    width: 230px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+    left: -85px;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+    margin-right: 0;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 3.5rem;
+    font-weight: 600;
+    color: white;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 2rem;
+    color: white;
+    font-weight: 500;
+}
+.ref {
+    position: relative;
+    background-color: white;
+    width: 130px;
+    height: 181px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    overflow: hidden;
+    margin: 0 0 0 auto;
+}
+
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.3rem;
+    background-size: contain;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.3rem;
+    text-align: right;
+    position: relative;
+    top: 40px;
+}
+.contact {
+    font-size: 1.50rem;
+    font-family: 'Avenir Next';
+    line-height: 1.3;
+    font-weight: 600;
+    padding: 20px 45px 60px 10px;
+    text-align: right;
+    color: black;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 725px solid transparent;
+    position: relative;
+    top: -150px;
+    left: -110px;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -20px 134px;
+    background-color: #F5F6F6;
+    margin: 0px -15px 0px 0px;
+}
+.lets > p {
+    font-size: 2rem;
+}
+.eighth {
+    text-align: center;
+    margin-bottom: 35px;
+    padding-top: 10px;
+}
+.eighth > h2 {
+    font-size: 4rem;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+iframe {
+    position: relative;
+    top: -140px;
+    left: 25px;
+    width: 250px;
+    height: 250px;
+}
+.stages {
+    background-color: #FF7F80;
+    padding-left: 0px;
+    height: 530px;
+}
+.vimeo {
+    background-color: #8170FF;
+    height: 200px;
+}
+.ninth {
+    text-align: center;
+    height: 260px;
+}
+.ninth h2 {
+    font-size: 2rem;
+}
+.ninth p {
+    font-size: 1.1rem;
+}
+.manyarr {
+    height: 300px;
+    background-color: #F5F6F6;
+    position: relative;
+    padding: 10px 15px 10px 20px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 1.5%;
+    font-size: 1.5rem;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 10px;
+    font-size: 5rem;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.5rem;
+    text-align: right;
+    position: relative;
+    top: 140px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.5rem;
+    background-size: contain;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 110px;
+}
+#middletitle {
+    font-size: 2.1rem;
+    font-family: 'Avenir Next';
+    font-weight: 600;
+    color: black;
+    margin: auto;
+}
+#lefttitle, #righttitle {
+    font-size: 1.1rem;
+    font-family: 'Avenir Next';
+    font-weight: 500;
+    margin: auto;
+}
+.personal {
+    margin-top: 0;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.logo {
+    position: relative;
+    top: 30px;
+    width: 150px;
+}
+}
+
+
+@media screen and (min-width: 550px) {
+.ref {
+    width: 150px;
+    height: 160px;
+}
+.marginright-30 {
+    position: relative;
+    right: -30px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 200px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+.manyarr > h2 {
+    font-size: 4.4rem;
+}
+#middletitle {
+    font-size: 2rem;
+}
+#lefttitle, #righttitle {
+    font-size: 1.5rem;
+}
+.manyarr > p {
+    font-size: 1.2rem;
+}
+.stages {
+    height: 550px;
+}
+.contact {
+    font-size: 1.1em;
+    padding: 30px 25px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -200px;
+    left: 33px;
+    width: 250px;
+    height: 340px;
+}
+.whatwewait {
+    position: relative;
+    top: -114%;
+    left: 0.5%;
+    font-size: 1.1em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -26px 120px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.1em;
+    text-align: right;
+    position: relative;
+    top: 70px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 2.7em;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 2.5em;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 350px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 40px;
+    font-size: 2.2rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 0.9em;
+}
+.ninth h2 {
+    font-size: 2rem;
+}
+.lets > p {
+    font-size: 2rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 480px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 1.3em;
+    color: white;
+    font-weight: 500;
+}
+.first {
+ height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 150px;
+}
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+    margin-right: 15px;
+}
+  
+}
+@media screen and (min-width: 567px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 492px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.ninth {
+    text-align: center;
+    height: 300px;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -26px 160px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+}
+@media screen and (min-width: 585px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 503px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 600px) {
+.ref {
+    width: 150px;
+    height: 160px;
+}
+.marginright-30 {
+    position: relative;
+    right: -39px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 200px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+.manyarr > h2 {
+    font-size: 4.4rem;
+}
+#middletitle {
+    font-size: 2.7rem;
+}
+#lefttitle, #righttitle {
+    font-size: 1.5rem;
+}
+.manyarr > p {
+    font-size: 1.4rem;
+}
+.stages {
+    height: 550px;
+}
+.contact {
+    font-size: 1.15em;
+    padding: 30px 25px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -200px;
+    left: 33px;
+    width: 300px;
+    height: 340px;
+}
+.whatwewait {
+    position: relative;
+    top: -114%;
+    left: 0.5%;
+    font-size: 1.1em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -32px 134px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.1em;
+    text-align: right;
+    position: relative;
+    top: 70px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 3em;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 3rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 400px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 40px;
+    font-size: 2.2rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 0.9em;
+}
+.ninth h2 {
+    font-size: 2rem;
+}
+.lets > p {
+    font-size: 2rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 513px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 2rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+ height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 150px;
+}
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+    margin-right: 15px;
+}
+        
+}
+@media screen and (min-width: 617px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 525px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 635px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 537px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 650px) {
+.ref {
+    width: 150px;
+    height: 160px;
+}
+.marginright-30 {
+    position: relative;
+    right: -48px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 200px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.manyarr > h2 {
+    font-size: 4.4rem;
+}
+#middletitle {
+    font-size: 2.7rem;
+}
+#lefttitle, #righttitle {
+    font-size: 1.5rem;
+}
+.manyarr > p {
+    font-size: 1.4rem;
+}
+.stages {
+    height: 550px;
+}
+.contact {
+    font-size: 1.2em;
+    padding: 30px 25px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -200px;
+    left: 33px;
+    width: 300px;
+    height: 340px;
+}
+.whatwewait {
+    position: relative;
+    top: -114%;
+    left: 0.5%;
+    font-size: 1.1em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -23px 94px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.1rem;
+    text-align: right;
+    position: relative;
+    top: 70px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.1rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 4.5rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 3rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 400px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 40px;
+    font-size: 2.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.1em;
+}
+.ninth h2 {
+    font-size: 2.9rem;
+}
+.lets > p {
+    font-size: 2.5rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 548px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 2rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+ height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 150px;
+}
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+    margin-right: 15px;
+}
+        
+}
+
+@media screen and (min-width: 667px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 560px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 685px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 572px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 700px) {
+.ref {
+    width: 150px;
+    height: 160px;
+}
+.marginright-30 {
+    position: relative;
+    right: -50px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 200px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.manyarr > h2 {
+    font-size: 4.4rem;
+}
+#middletitle {
+    font-size: 2.7rem;
+}
+#lefttitle, #righttitle {
+    font-size: 1.5rem;
+}
+.manyarr > p {
+    font-size: 1.4rem;
+}
+.stages {
+    height: 550px;
+}
+.contact {
+    font-size: 1.3em;
+    padding: 30px 25px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -200px;
+    left: 33px;
+    width: 350px;
+    height: 340px;
+}
+.whatwewait {
+    position: relative;
+    top: -114%;
+    left: 0.5%;
+    font-size: 1.1em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -20px 65px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.25rem;
+    text-align: right;
+    position: relative;
+    top: 70px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.3rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 5rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 400px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 35px;
+    font-size: 2.7rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.1em;
+}
+.ninth h2 {
+    font-size: 2.9rem;
+}
+.lets > p {
+    font-size: 2.5rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 580px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 2rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+ height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 150px;
+}
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+    margin-right: 15px;
+}
+        
+}
+
+
+@media screen and (min-width: 717px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 593px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 735px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 605px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 750px) {
+.ref {
+    width: 150px;
+    height: 160px;
+}
+.marginright-30 {
+    position: relative;
+    right: -50px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 200px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-right: 40px;
+}
+.manyarr > h2 {
+    font-size: 4.4rem;
+}
+#middletitle {
+    font-size: 2.7rem;
+}
+#lefttitle, #righttitle {
+    font-size: 1.5rem;
+}
+.manyarr > p {
+    font-size: 1.4rem;
+}
+.stages {
+    height: 550px;
+}
+.contact {
+    font-size: 1.3em;
+    padding: 30px 25px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -200px;
+    left: 33px;
+    width: 350px;
+    height: 340px;
+}
+.whatwewait {
+    position: relative;
+    top: -114%;
+    left: 0.5%;
+    font-size: 1.2em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -20px 65px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.3rem;
+    text-align: right;
+    position: relative;
+    top: 70px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.3rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 5.3rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 400px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 35px;
+    font-size: 3rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.2em;
+}
+.ninth h2 {
+    font-size: 2.9rem;
+}
+.lets > p {
+    font-size: 2.5rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 615px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 2.5rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+ height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 150px;
+}
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+    margin-right: 15px;
+}
+        
+}
+
+@media screen and (min-width: 767px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 627px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+
+@media screen and (min-width: 785px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 640px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 800px) {
+.ref {
+    width: 150px;
+    height: 160px;
+}
+.marginright-30 {
+    position: relative;
+    right: -7px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 200px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-right: 40px;
+}
+.manyarr > h2 {
+    font-size: 4.4rem;
+}
+#middletitle {
+    font-size: 2.7rem;
+}
+#lefttitle, #righttitle {
+    font-size: 2rem;
+}
+.manyarr > p {
+    font-size: 1.4rem;
+}
+.stages {
+    height: 550px;
+}
+.contact {
+    font-size: 1.3em;
+    padding: 30px 25px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -200px;
+    left: 33px;
+    width: 400px;
+    height: 340px;
+}
+.whatwewait {
+    position: relative;
+    top: -95%;
+    left: 1.5%;
+    font-size: 1em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -20px 65px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.4rem;
+    text-align: right;
+    position: relative;
+    top: 70px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.4rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 5.5rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 400px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 3.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.35em;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 2.5rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 650px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 2.5rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+ height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 150px;
+}
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+    margin-right: 15px;
+}
+    	
+}
+
+@media screen and (min-width: 812px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 657px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 817px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 660px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 835px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 673px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 850px) {
+.ref {
+    width: 150px;
+    height: 160px;
+}
+.marginright-30 {
+    position: relative;
+    right: -12px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 200px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-right: 40px;
+}
+.manyarr > h2 {
+    font-size: 4.4rem;
+}
+#middletitle {
+    font-size: 3rem;
+}
+#lefttitle, #righttitle {
+    font-size: 2rem;
+}
+.manyarr > p {
+    font-size: 1.7rem;
+}
+.stages {
+    height: 550px;
+}
+.contact {
+    font-size: 1.45em;
+    padding: 30px 25px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -200px;
+    left: 50px;
+    width: 400px;
+    height: 340px;
+}
+.whatwewait {
+    position: relative;
+    top: -95%;
+    left: 1.5%;
+    font-size: 1em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -5px 35px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.5rem;
+    text-align: right;
+    position: relative;
+    top: 70px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.5rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 6rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 400px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.35em;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 685px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 3rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+ height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 150px;
+}
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+    margin-right: 15px;
+}
+    
+}
+
+@media screen and (min-width: 875px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 700px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 900px) {
+.ref {
+    width: 260px;
+    height: 281px;
+}
+.marginright-30 {
+    position: relative;
+    right: -16px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 200px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-right: 40px;
+}
+.manyarr > h2 {
+    font-size: 4.4rem;
+}
+#middletitle {
+    font-size: 3rem;
+}
+#lefttitle, #righttitle {
+    font-size: 2rem;
+}
+.manyarr > p {
+    font-size: 1.7rem;
+}
+.stages {
+    height: 550px;
+}
+.contact {
+    font-size: 1.5em;
+    padding: 30px 25px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -200px;
+    left: 65px;
+    width: 420px;
+    height: 340px;
+}
+.whatwewait {
+    position: relative;
+    top: -95%;
+    left: 1.5%;
+    font-size: 1em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -20px 21px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.7rem;
+    text-align: right;
+    position: relative;
+    top: 70px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.7rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 6.5rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 500px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.35em;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 719px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 3rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+ height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 150px;
+}
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+    margin-right: 15px;
+}
+    
+}
+
+@media screen and (min-width: 925px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 735px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 950px) {
+.ref {
+    width: 260px;
+    height: 281px;
+}
+.marginright-30 {
+    position: relative;
+    right: -24px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 200px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-right: 40px;
+}
+.manyarr > h2 {
+    font-size: 4.4rem;
+}
+#middletitle {
+    font-size: 3.8rem;
+}
+#lefttitle, #righttitle {
+    font-size: 2.5rem;
+}
+.manyarr > p {
+    font-size: 1.7rem;
+}
+.stages {
+    height: 550px;
+}
+.contact {
+    font-size: 1.5em;
+    padding: 30px 25px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -200px;
+    left: 65px;
+    width: 450px;
+    height: 340px;
+}
+.whatwewait {
+    position: relative;
+    top: -95%;
+    left: 1.5%;
+    font-size: 1.18em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -20px 21px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.7rem;
+    text-align: right;
+    position: relative;
+    top: 70px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.7rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 6.5rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 500px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.35em;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 753px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 3rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+ height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 150px;
+}
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+    margin-right: 15px;
+}
+	
+}
+
+@media screen and (min-width: 975px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 770px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 1000px) {
+.ref {
+    width: 260px;
+    height: 281px;
+}
+.marginright-30 {
+    position: relative;
+    right: -24px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 200px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-right: 40px;
+}
+.manyarr > h2 {
+    font-size: 4.4rem;
+}
+#middletitle {
+    font-size: 3.8rem;
+}
+#lefttitle, #righttitle {
+    font-size: 2.5rem;
+}
+.manyarr > p {
+    font-size: 1.7rem;
+}
+.stages {
+    height: 550px;
+}
+.contact {
+    font-size: 1.65em;
+    padding: 30px 25px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -200px;
+    left: 65px;
+    width: 500px;
+    height: 340px;
+}
+.whatwewait {
+    position: relative;
+    top: -95%;
+    left: 1.5%;
+    font-size: 1.18em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -20px -20px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.7rem;
+    text-align: right;
+    position: relative;
+    top: 70px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.7rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 6.5rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 500px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.35em;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 785px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 3rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+ height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 150px;
+}
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+    margin-right: 15px;
+}
+}
+@media screen and (min-width: 1025px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 803px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 1050px) {
+.ref {
+    width: 260px;
+    height: 281px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 200px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-right: 40px;
+}
+.manyarr > h2 {
+    font-size: 4.4rem;
+}
+#middletitle {
+    font-size: 3.8rem;
+}
+#lefttitle, #righttitle {
+    font-size: 2.5rem;
+}
+.manyarr > p {
+    font-size: 1.7rem;
+}
+.stages {
+    height: 550px;
+}
+.contact {
+    font-size: 1.65em;
+    padding: 30px 25px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -200px;
+    left: 65px;
+    width: 500px;
+    height: 340px;
+}
+.whatwewait {
+    position: relative;
+    top: -95%;
+    left: 1.5%;
+    font-size: 1.18em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -20px -20px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.7rem;
+    text-align: right;
+    position: relative;
+    top: 70px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.7rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 6.5rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 500px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.35em;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 820px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 3rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+ height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 150px;
+}
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+    margin-right: 15px;
+}
+}
+@media screen and (min-width: 1075px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 840px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+    margin-right: 15px;
+}
+}
+@media screen and (min-width: 1100px) {
+.ref {
+    width: 260px;
+    height: 281px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.marginright-30 {
+    position: relative;
+    right: -32px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 200px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#middletitle {
+    font-size: 3.1rem;
+}
+#lefttitle, #righttitle {
+    font-size: 2rem;
+}
+.manyarr > p {
+    font-size: 1.7rem;
+}
+.stages {
+    height: 550px;
+}
+.contact {
+    font-size: 1.6em;
+    padding: 50px 55px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -200px;
+    left: 85px;
+    width: 500px;
+    height: 340px;
+}
+.whatwewait {
+    position: relative;
+    top: -95%;
+    left: 1.5%;
+    font-size: 1.18em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -20px -20px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.7rem;
+    text-align: right;
+    position: relative;
+    top: 70px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.7rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 6.5rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 500px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 3.5rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.35em;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 855px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+ height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 150px;
+}
+}
+@media screen and (min-width: 1125px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 871px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 1150px) {
+.ref {
+    width: 260px;
+    height: 281px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 200px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#middletitle {
+    font-size: 3.2rem;
+}
+#lefttitle, #righttitle {
+    font-size: 2rem;
+}
+.manyarr > p {
+    font-size: 1.7rem;
+}
+.stages {
+    height: 550px;
+}
+.contact {
+    font-size: 1.63em;
+    padding: 50px 55px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -200px;
+    left: 100px;
+    width: 500px;
+    height: 340px;
+}
+.whatwewait {
+    position: relative;
+    top: -95%;
+    left: 1.5%;
+    font-size: 1.18em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -20px -20px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.7rem;
+    text-align: right;
+    position: relative;
+    top: 70px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.7rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 6.5rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 3.5rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.35em;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 890px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+ height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 150px;
+}
+}
+
+
+@media screen and (min-width: 1175px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 905px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 1200px) {
+.ref {
+    width: 260px;
+    height: 281px;
+}
+.marginright-30 {
+    position: relative;
+    right: -35px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 300px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.manyarr > h2 {
+    font-size: 4.4rem;
+}
+#middletitle {
+    font-size: 3.8rem;
+}
+#lefttitle, #righttitle {
+    font-size: 2.5rem;
+}
+.manyarr > p {
+    font-size: 1.7rem;
+}
+.stages {
+    height: 650px;
+}
+.contact {
+    font-size: 1.85em;
+    padding: 50px 55px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 93px;
+    width: 550px;
+    height: 600px;
+}
+.whatwewait {
+    position: relative;
+    top: -130%;
+    left: 3.5%;
+    font-size: 1.25em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -20px -20px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.35em;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 923px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+ height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+
+
+@media screen and (min-width: 1225px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 940px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 1250px) {
+.ref {
+    width: 260px;
+    height: 281px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 350px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.manyarr > h2 {
+    font-size: 4.4rem;
+}
+#middletitle {
+    font-size: 3.8rem;
+}
+#lefttitle, #righttitle {
+    font-size: 2.5rem;
+}
+.manyarr > p {
+    font-size: 1.7rem;
+}.stages {
+    height: 700px;
+}
+.contact {
+    font-size: 2em;
+    padding: 50px 55px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 93px;
+    width: 600px;
+    height: 600px;
+}
+.whatwewait {
+    position: relative;
+    top: -101%;
+    left: 3.5%;
+    font-size: 1.35em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -20px -20px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.35em;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 957px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+   height: auto; 
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 1275px) {
+
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 975px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 1300px) {
+.ref {
+    width: 260px;
+    height: 281px;
+}
+.marginright-30 {
+    position: relative;
+    right: -49px;
+}
+.sixth {
+    position: relative;
+    top: -30px;
+}
+.seventh {
+    position: relative;
+}
+.eighth {
+    position: relative;
+    top: -40px;
+}
+.ninth {
+    position: relative; 
+    top: -30px;
+}
+.vimeo {
+    height: 350px;
+}
+.manyarr {
+    height: 350px;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.manyarr > h2 {
+    font-size: 4.4rem;
+}
+#middletitle {
+    font-size: 3.8rem;
+}
+#lefttitle, #righttitle {
+    font-size: 2.5rem;
+}
+.manyarr > p {
+    font-size: 1.7rem;
+}.stages {
+    height: 700px;
+}
+.contact {
+    font-size: 2em;
+      padding: 50px 55px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 93px;
+    width: 600px;
+    height: 600px;
+}
+.whatwewait {
+    position: relative;
+    top: -101%;
+    left: 1.5%;
+    font-size: 1.38em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: -20px -20px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.35em;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 991px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 1325px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1008px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 1350px) {
+.ref {
+	width: 260px;
+	height: 281px;
+}
+.sixth {
+	position: relative;
+	top: -30px;
+}
+.seventh {
+	position: relative;
+}
+.eighth {
+	position: relative;
+	top: -40px;
+}
+.ninth {
+	position: relative; 
+	top: -30px;
+}
+.vimeo {
+	height: 350px;
+}
+.manyarr {
+	height: 350px;
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.manyarr > h2 {
+	font-size: 4.4rem;
+}
+#middletitle {
+	font-size: 3.8rem;
+}
+#lefttitle, #righttitle {
+	font-size: 2.5rem;
+}
+.manyarr > p {
+    font-size: 1.8rem;
+}
+.stages {
+	height: 700px;
+}
+.contact {
+    font-size: 2.08em;
+       padding: 50px 55px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 93px;
+    width: 650px;
+    height: 600px;
+}
+.whatwewait {
+    position: relative;
+    top: -101%;
+    left: 2.5%;
+    font-size: 1.47em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0px -20px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.35em;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1028px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 1375px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1040px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 1400px) {
+.ref {
+	width: 260px;
+	height: 281px;
+}
+.marginright-30 {
+    position: relative;
+    right: -57px;
+}
+.sixth {
+	position: relative;
+	top: -30px;
+}
+.seventh {
+	position: relative;
+}
+.eighth {
+	position: relative;
+	top: -40px;
+}
+.ninth {
+	position: relative; 
+	top: -30px;
+}
+.vimeo {
+	height: 350px;
+}
+.manyarr {
+	height: 350px;
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.manyarr > h2 {
+	font-size: 4.4rem;
+}
+#middletitle {
+	font-size: 3.8rem;
+}
+#lefttitle, #righttitle {
+	font-size: 2.5rem;
+}
+.manyarr > p {
+	font-size: 1.9rem;
+}
+.stages {
+	height: 700px;
+}
+.contact {
+    font-size: 2.1em;
+    padding: 50px 55px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 93px;
+    width: 650px;
+    height: 600px;
+}
+.whatwewait {
+    position: relative;
+    top: -101%;
+    left: 0.5%;
+    font-size: 1.5em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0px -20px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.35em;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1059px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 1425px){
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1075px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 1440px){
+	.ref {
+	width: 260px;
+	height: 281px;
+}
+.sixth {
+	position: relative;
+	top: -30px;
+}
+.seventh {
+	position: relative;
+}
+.eighth {
+	position: relative;
+	top: -40px;
+}
+.ninth {
+	position: relative; 
+	top: -30px;
+}
+.vimeo {
+	height: 350px;
+}
+.manyarr {
+	height: 350px;
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.manyarr > h2 {
+	font-size: 4.4rem;
+}
+#middletitle {
+	font-size: 3.8rem;
+}
+#lefttitle, #righttitle {
+	font-size: 2.5rem;
+}
+.manyarr > p {
+	font-size: 1.9rem;
+}
+.stages {
+	height: 700px;
+}
+.contact {
+    font-size: 2.1em;
+    padding: 50px 55px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 85px;
+    width: 700px;
+    height: 600px;
+}
+.whatwewait {
+    position: relative;
+    top: -101%;
+    left: 2%;
+    font-size: 1.6em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0px -20px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 1.45em;
+}
+.ninth h2 {
+    font-size: 2.7em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1087px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+
+@media screen and (min-width: 1450px) {
+.ref {
+	width: 260px;
+	height: 281px;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.sixth {
+	position: relative;
+	top: -30px;
+}
+.seventh {
+	position: relative;
+}
+.eighth {
+	position: relative;
+	top: -40px;
+}
+.ninth {
+	position: relative; 
+	top: -30px;
+}
+.vimeo {
+	height: 350px;
+}
+.manyarr {
+	height: 350px;
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.manyarr > h2 {
+	font-size: 4.4rem;
+}
+#middletitle {
+	font-size: 3.8rem;
+}
+#lefttitle, #righttitle {
+	font-size: 2.5rem;
+}
+.manyarr > p {
+	font-size: 1.9rem;
+}
+.stages {
+	height: 700px;
+}
+.contact {
+    font-size: 2.1em;
+    padding: 50px 55px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 93px;
+    width: 700px;
+    height: 600px;
+}
+.whatwewait {
+    position: relative;
+    top: -101%;
+    left: 2%;
+    font-size: 1.6em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0px -20px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1095px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 1475px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1110px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 1500px) {
+.ref {
+	width: 260px;
+	height: 281px;
+}
+.marginright-30 {
+    position: relative;
+    right: -66px;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.sixth {
+	position: relative;
+	top: -30px;
+}
+.seventh {
+	position: relative;
+}
+.eighth {
+	position: relative;
+	top: -40px;
+}
+.ninth {
+	position: relative; 
+	top: -30px;
+}
+.vimeo {
+	height: 350px;
+}
+.manyarr {
+	height: 350px;
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.manyarr > h2 {
+	font-size: 4.4rem;
+}
+#middletitle {
+	font-size: 3.8rem;
+}
+#lefttitle, #righttitle {
+	font-size: 2.5rem;
+}
+.manyarr > p {
+	font-size: 1.9rem;
+}
+.stages {
+	height: 700px;
+}
+.contact {
+    font-size: 2.15em;
+    padding: 50px 55px 60px 25px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 93px;
+    width: 700px;
+    height: 525px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 1.6em;
+}
+.bcg {
+    background-image: url(../img/bcg22.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0px -20px;
+    background-color: #F5F6F6;
+    margin-right: -15px;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+.eighth {
+    position: relative;
+    top: -20px;
+}
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1127px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 1525px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1143px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 1550px) {
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.15em;
+    padding: 50px 55px 60px 25px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1161px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 110px;
+    width: 700px;
+    height: 525px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 1.6em;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 1575px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1179px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 1600px) {
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.marginright-30 {
+    position: relative;
+    right: -74px;
+}
+.contact {
+    font-size: 2.15em;
+    padding: 50px 55px 60px 25px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1195px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 110px;
+    width: 700px;
+    height: 525px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: -1.5%;
+    font-size: 1.6em;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+
+@media screen and (min-width: 1625px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1212px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 1650px) {
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.4em;
+    padding: 50px 55px 60px 10px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1230px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 110px;
+    width: 768px;
+    height: 525px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 1.7em;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 1675px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1249px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 1700px) {
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.marginright-30 {
+    position: relative;
+    right: -82px;
+}
+.contact {
+    font-size: 2.5em;
+    padding: 50px 55px 60px 10px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1265px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 125px;
+    width: 768px;
+    height: 525px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 1.7em;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 1725px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1285px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 1750px) {
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.5em;
+    padding: 50px 55px 60px 10px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1297px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 140px;
+    width: 768px;
+    height: 525px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 1.7em;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+
+@media screen and (min-width: 1775px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1317px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 1800px) {
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.5em;
+    padding: 50px 55px 60px 10px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1335px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 155px;
+    width: 768px;
+    height: 525px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 1.7em;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+
+@media screen and (min-width: 1825px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1350px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 1850px) {
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.5em;
+    padding: 50px 55px 60px 10px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1368px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 165px;
+    width: 768px;
+    height: 525px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 1.7em;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+
+@media screen and (min-width: 1875px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1387px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 1900px) {
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.5em;
+    padding: 80px 55px 60px 10px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1403px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 185px;
+    width: 768px;
+    height: 525px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 1.7em;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+
+@media screen and (min-width: 1920px) {
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.marginright-30 {
+    position: relative;
+    right: -90px;
+}
+.contact {
+    font-size: 2.5em;
+    padding: 80px 55px 60px 10px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1415px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 185px;
+    width: 768px;
+    height: 525px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 1.7em;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+
+@media screen and (min-width: 1950px) {
+.whitestripe {
+    width: 240px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+font-size: 2.5em;
+    padding: 80px 55px 60px 10px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1437px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 200px;
+    width: 768px;
+    height: 525px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 1.7em;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 1975px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1452px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}}
+@media screen and (min-width: 2000px) {
+.whitestripe {
+    width: 245px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.marginright-30 {
+    position: relative;
+    right: -100px;
+}
+.contact {
+font-size: 2.5em;
+    padding: 85px 55px 60px 30px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1470px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 215px;
+    width: 768px;
+    height: 525px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 1.5%;
+    font-size: 1.8em;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 2025px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1489px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 2050px) {
+.whitestripe {
+    width: 245px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+font-size: 2.5em;
+    padding: 85px 55px 60px 30px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 65px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1506px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 195px;
+    width: 850px;
+    height: 525px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 1.5%;
+    font-size: 1.9em;
+}
+.stripes {
+    position: relative;
+    left: 90.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 2075px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1521px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 2100px) {
+.whitestripe {
+    width: 245px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.marginright-30 {
+    position: relative;
+    right: -110px;
+}
+.contact {
+    font-size: 2.5em;
+    padding: 85px 55px 60px 75px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.5em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1539px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 250px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 205px;
+    width: 850px;
+    height: 525px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 1.5%;
+    font-size: 1.9em;
+}
+
+}
+@media screen and (min-width: 2125px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1555px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 2150px) {
+.whitestripe {
+    width: 245px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.5em;
+    padding: 85px 55px 60px 75px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.5em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1572px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 250px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 194px;
+    width: 900px;
+    height: 525px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 1.5%;
+    font-size: 2em;
+}
+}
+@media screen and (min-width: 2175px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1590px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 2200px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1607px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.marginright-30 {
+    position: relative;
+    right: -125px;
+}
+.whitestripe {
+    width: 245px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.5em;
+    padding: 85px 55px 60px 75px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2rem;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2rem;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5rem;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.5em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.9rem;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 250px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 210px;
+    width: 900px;
+    height: 533px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 2em;
+}
+
+}
+@media screen and (min-width: 2225px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1623px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 2250px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1642px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 180px;
+    width: 1000px;
+    height: 533px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 1.5%;
+    font-size: 2.2em;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.6em;
+    padding: 85px 55px 60px 75px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.7em;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.7em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 7.5em;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.7em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 2275px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1658px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 2300px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1673px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.marginright-30 {
+    position: relative;
+    right: -130px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 190px;
+    width: 1000px;
+    height: 533px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 1.5%;
+    font-size: 2.2em;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.69em;
+    padding: 85px 55px 60px 75px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.7em;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.7em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 7.5em;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.7em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+    height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 250px;
+}
+}
+
+@media screen and (min-width: 2325px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1690px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 2350px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1707px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 210px;
+    width: 1000px;
+    height: 533px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 1.5%;
+    font-size: 2.2em;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.69em;
+    padding: 85px 55px 60px 75px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.7em;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.7em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 7.5em;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.7em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 250px;
+}
+}
+
+@media screen and (min-width: 2375px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1727px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 2400px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1745px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.marginright-30 {
+    position: relative;
+    right: -140px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 225px;
+    width: 1000px;
+    height: 533px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 1.5%;
+    font-size: 2.2em;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.73em;
+    padding: 85px 55px 60px 75px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.7em;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.7em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 7.5em;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.7em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 2425px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1760px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 2450px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1777px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 238px;
+    width: 1000px;
+    height: 533px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 1.5%;
+    font-size: 2.2em;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.83em;
+    padding: 85px 55px 60px 75px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.7em;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.7em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 7.5em;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.7em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 250px;
+}
+}
+
+
+@media screen and (min-width: 2475px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1795px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 2500px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1812px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.marginright-30 {
+    position: relative;
+    right: -150px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 255px;
+    width: 1000px;
+    height: 533px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 1.5%;
+    font-size: 2.2em;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.83em;
+    padding: 85px 55px 60px 75px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.7em;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.7em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 7.5em;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.7em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 250px;
+}
+}
+
+@media screen and (min-width: 2525px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1830px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 2550px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1760px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 265px;
+    width: 1000px;
+    height: 533px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 1.5%;
+    font-size: 2.2em;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.9em;
+    padding: 85px 55px 60px 75px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.7em;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.7em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 7.5em;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.7em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+    height: 1250px;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 2575px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1777px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 2600px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1876px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.marginright-30 {
+    position: relative;
+    right: -150px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 290px;
+    width: 1000px;
+    height: 533px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 1.5%;
+    font-size: 2.2em;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.9em;
+    padding: 85px 55px 60px 75px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.7em;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.7em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 7.5em;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.7em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 2625px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1895px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 2650px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1914px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 300px;
+    width: 1000px;
+    height: 533px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 1.5%;
+    font-size: 2.2em;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.9em;
+    padding: 85px 55px 60px 75px;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 1.7em;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 1.7em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 7.5em;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.7em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 2675px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1930px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}}
+
+@media screen and (min-width: 2700px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1948px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.marginright-30 {
+    position: relative;
+    right: -150px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 315px;
+    width: 1000px;
+    height: 533px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 1.5%;
+    font-size: 2.2em;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.9em;
+    padding: 85px 55px 60px 75px;
+}
+
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2em;
+    text-align: right;
+    position: relative;
+    top: 130px;
+}
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 180px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.75em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+}
+@media screen and (min-width: 2725px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1964px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+@media screen and (min-width: 2750px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 1985px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 350px;
+    width: 1000px;
+    height: 533px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 2.5%;
+    font-size: 2.2em;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.9em;
+    padding: 85px 55px 60px 75px;
+}
+
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2em;
+    text-align: right;
+    position: relative;
+    top: 130px;
+}
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 180px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.75em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+}
+@media screen and (min-width: 2775px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 2000px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+}
+
+@media screen and (min-width: 2800px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 2015px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.marginright-30 {
+    position: relative;
+    right: -165px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 325px;
+    width: 1000px;
+    height: 533px;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.9em;
+    padding: 80px 55px 60px 75px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 2.2em;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2em;
+    text-align: right;
+    position: relative;
+    top: 130px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.75em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 180px;
+}
+}
+@media screen and (min-width: 2825px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 2035px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 350px;
+    width: 1000px;
+    height: 533px;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.9em;
+    padding: 80px 55px 60px 75px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 2.2em;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2em;
+    text-align: right;
+    position: relative;
+    top: 130px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.75em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 180px;
+}
+}
+@media screen and (min-width: 2850px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 2050px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.marginright-30 {
+    position: relative;
+    right: -170px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 350px;
+    width: 1000px;
+    height: 533px;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.9em;
+    padding: 80px 55px 60px 75px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 2.2em;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2em;
+    text-align: right;
+    position: relative;
+    top: 130px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.75em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 180px;
+}
+}
+
+@media screen and (min-width: 2880px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 2075px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+.marginright-30 {
+    position: relative;
+    right: -180px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 350px;
+    width: 1000px;
+    height: 533px;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.9em;
+    padding: 80px 55px 60px 75px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 2.2em;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2em;
+    text-align: right;
+    position: relative;
+    top: 130px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.75em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 180px;
+}
+}
+
+@media screen and (min-width: 2900px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 2200px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+
+
+iframe {
+    position: relative;
+    top: -300px;
+    left: 350px;
+    width: 1000px;
+    height: 533px;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.9em;
+    padding: 105px 55px 60px 75px;
+}
+.whatwewait {
+    position: relative;
+    top: -80%;
+    left: 0.5%;
+    font-size: 2.2em;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2em;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.75em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 250px;
+}
+}
+
+@media screen and (min-width: 2950px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 2260px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 350px;
+    width: 1000px;
+    height: 533px;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.9em;
+    padding: 105px 55px 60px 75px;
+}
+.whatwewait {
+    position: relative;
+    top: -50%;
+    left: -1%;
+    font-size: 2.2em;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2em;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.75em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 250px;
+}
+}
+@media screen and (min-width: 3000px) {
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 550px solid #8170FF;
+    border-top: 300px solid transparent;
+    border-right: 2325px solid transparent;
+    position: relative;
+    top: -230px;
+    left: -110px;
+}
+iframe {
+    position: relative;
+    top: -300px;
+    left: 350px;
+    width: 1000px;
+    height: 533px;
+}
+.whitestripe {
+    width: 300px;
+    height: 15px;
+    margin-bottom: 40px;
+    background-color: white;
+    position: relative;
+}
+.contact {
+    font-size: 2.9em;
+    padding: 105px 55px 60px 75px;
+}
+.whatwewait {
+    position: relative;
+    top: -50%;
+    left: -1%;
+    font-size: 2.2em;
+}
+.project {
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding-right: 60px;
+    font-size: 2em;
+    text-align: right;
+    position: relative;
+    top: 200px;
+}
+.knu {
+    background-image: url(../img/lines.png);
+    font-family: 'Avenir Next';
+    font-weight: 400;
+    color: white;
+    padding: 5px;
+    font-size: 2em;
+    background-size: contain;
+}
+.students {
+    font-family: 'Avenir Next';
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.logo {
+    position: relative;
+    /* top: 30px; */
+    width: 80%;
+}
+.eighth > h2 {
+    font-size: 4.5rem;
+}
+.ninth {
+    position: relative;
+    top: 0;
+}
+.ninth {
+    text-align: center;
+    height: 570px;
+}
+
+.eighth {
+    position: relative;
+    top: 20px;
+}
+.eighth > h2 {
+    font-size: 4.5em;
+}
+.personal {
+    margin-top: 50px;
+    font-family: 'Avenir Next';
+    font-weight: 400;
+}
+.manyarr > p {
+    font-size: 1.75em;
+}
+.manyarr > h2 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Avenir Next';
+    position: relative;
+    color: black;
+}
+.ninth p {
+    font-size: 2.5rem;
+}
+.ninth h2 {
+    font-size: 3.5em;
+}
+.lets > p {
+    font-size: 3rem;
+}
+.lets > h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 4.5em;
+}
+.lets {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.adv {
+    font-family: 'Avenir Next';
+    font-size: 4rem;
+    color: white;
+    font-weight: 500;
+}
+.first {
+height: auto;
+    margin-right: -15px;
+    background-image: url(../img/background.png);
+}
+
+.stripes {
+    position: relative;
+    left: 91.31%;
+    top: 250px;
+}
+}
